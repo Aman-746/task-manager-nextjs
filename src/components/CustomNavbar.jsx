@@ -28,7 +28,7 @@ const CustomNavbar = () => {
     <nav className='bg-sky-400 h-12 py-3 px-2 flex justify-between items-center'>
       <div>
         <h1 className='font-semibold text-2xl '>
-          <a href="#!">Work Manager</a>
+          <a href="#!">Task Manager</a>
         </h1>
       </div>
       <div>
